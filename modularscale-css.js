@@ -1,3 +1,5 @@
+import 'https://unpkg.com/css-paint-polyfill';
+
 CSS.registerProperty({
     name: '--ms-base',
     syntax: '<length>',
